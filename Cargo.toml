@@ -1,6 +1,6 @@
 [package]
 name = "reqwest-embedded-roots"
-version = "0.1.1"
+version = "0.1.2"
 description = "reqwest client factory with Mozilla's CA roots compiled in and the OS trust store layered on top — no ca-certificates package needed in container images"
 authors = ["Jacobus Geluk <jacobus.geluk@dataroad.com>"]
 edition = "2024"
